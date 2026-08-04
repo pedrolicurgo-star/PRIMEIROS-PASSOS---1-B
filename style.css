@@ -2,9 +2,15 @@ head{
     background-color: rgb(176, 255, 229);
     color: white;
     text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    border: 5px solid white;
+    padding: 16px;
 }
 main{
     background-color: white;
     color: black;
     text-align: center;
+    max-width: 800px;
+    margin: o auto;
 }
