@@ -3,7 +3,7 @@ head{
     color: white;
     text-align: center;
     max-width: 800px;
-    margin: o auto;
+    margin: 0 auto;
     border: 5px solid white;
     padding: 16px;
 }
@@ -12,5 +12,13 @@ main{
     color: black;
     text-align: center;
     max-width: 800px;
-    margin: o auto;
+    margin: 0 auto;
+    width: 80px;
+    height: 80px;
 }
+div p[
+    font-weight: bold;
+]
+.artigo-autor[
+    font-weight: bold;
+]
